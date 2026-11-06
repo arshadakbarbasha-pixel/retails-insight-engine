@@ -1,0 +1,121 @@
+product_id,product_name,category,brand,mrp,cost_price,current_stock
+SKU-0001,Classic Line Round Neck T-Shirt,Men's Topwear,Classic Line,1149,517,15.0
+SKU-0002,Classic Line Cargo Pants,Men's Bottomwear,Classic Line,2349,1127,18.0
+SKU-0003,Urban Edge Kurti,Women's Topwear,Urban Edge,2449,1028,10.0
+SKU-0004,Classic Line Straight Pants,Women's Bottomwear,Classic Line,2099,923,5.0
+SKU-0005,Levi's Kids Dress,Kids Wear,Levi's,749,299,14.0
+SKU-0006,Roadster Formal Shoes,Footwear,Roadster,3749,1874,20.0
+SKU-0007,FlexFit Backpack,Accessories,FlexFit,1699,645,11.0
+SKU-0008,H&W Basics Casual Shirt,Men's Topwear,H&W Basics,849,382,8.0
+SKU-0009,Trendy Co Slim Fit Jeans,Men's Bottomwear,Trendy Co,949,455,3.0
+SKU-0010,Classic Line Sweatshirt,Women's Topwear,Classic Line,1749,734,8.0
+SKU-0011,Classic Line Skinny Jeans,Women's Bottomwear,Classic Line,1249,549,284.0
+SKU-0012,Vibe Kids T-Shirt,Kids Wear,Vibe,1199,479,8.0
+SKU-0013,Classic Line Slides,Footwear,Classic Line,1399,699,11.0
+SKU-0014,H&W Basics Wallet,Accessories,H&W Basics,349,132,151.0
+SKU-0015,Levi's Casual Shirt,Men's Topwear,Levi's,1499,674,218.0
+SKU-0016,FlexFit Shorts,Men's Bottomwear,FlexFit,2949,1415,5.0
+SKU-0017,Roadster Crop Top,Women's Topwear,Roadster,1249,524,9.0
+SKU-0018,H&W Basics Skinny Jeans,Women's Bottomwear,H&W Basics,949,417,25.0
+SKU-0019,Levi's Kids Dress,Kids Wear,Levi's,749,299,79.0
+SKU-0020,Levi's Sandals,Footwear,Levi's,2949,1474,1.0
+SKU-0021,H&W Basics Sunglasses,Accessories,H&W Basics,1699,645,29.0
+SKU-0022,FlexFit Formal Shirt,Men's Topwear,FlexFit,949,427,53.0
+SKU-0023,Classic Line Joggers,Men's Bottomwear,Classic Line,2549,1223,47.0
+SKU-0024,H&W Basics Sweatshirt,Women's Topwear,H&W Basics,1099,461,16.0
+SKU-0025,FlexFit Palazzo,Women's Bottomwear,FlexFit,849,373,25.0
+SKU-0026,Levi's Kids Hoodie,Kids Wear,Levi's,299,119,5.0
+SKU-0027,Classic Line Slides,Footwear,Classic Line,2949,1474,14.0
+SKU-0028,FlexFit Cap,Accessories,FlexFit,1649,626,22.0
+SKU-0029,H&W Basics Casual Shirt,Men's Topwear,H&W Basics,1349,607,12.0
+SKU-0030,Levi's Slim Fit Jeans,Men's Bottomwear,Levi's,1049,503,7.0
+SKU-0031,FlexFit Crop Top,Women's Topwear,FlexFit,1449,608,36.0
+SKU-0032,Trendy Co Skirt,Women's Bottomwear,Trendy Co,2049,901,78.0
+SKU-0033,FlexFit Kids Dress,Kids Wear,FlexFit,849,339,25.0
+SKU-0034,Trendy Co Sneakers,Footwear,Trendy Co,1749,874,30.0
+SKU-0035,Urban Edge Backpack,Accessories,Urban Edge,1049,398,23.0
+SKU-0036,Levi's Hoodie,Men's Topwear,Levi's,1099,494,18.0
+SKU-0037,Classic Line Shorts,Men's Bottomwear,Classic Line,1299,623,56.0
+SKU-0038,Urban Edge Sweatshirt,Women's Topwear,Urban Edge,1049,440,29.0
+SKU-0039,Roadster Skirt,Women's Bottomwear,Roadster,1849,813,7.0
+SKU-0040,Trendy Co Kids T-Shirt,Kids Wear,Trendy Co,1099,439,4.0
+SKU-0041,FlexFit Running Shoes,Footwear,FlexFit,2099,1049,55.0
+SKU-0042,Classic Line Cap,Accessories,Classic Line,599,227,25.0
+SKU-0043,Urban Edge Polo T-Shirt,Men's Topwear,Urban Edge,649,292,39.0
+SKU-0044,FlexFit Joggers,Men's Bottomwear,FlexFit,1799,863,13.0
+SKU-0045,Levi's Casual Shirt,Women's Topwear,Levi's,1499,629,31.0
+SKU-0046,Levi's Skirt,Women's Bottomwear,Levi's,1899,835,40.0
+SKU-0047,H&W Basics Kids Dress,Kids Wear,H&W Basics,699,279,30.0
+SKU-0048,Roadster Sandals,Footwear,Roadster,2799,1399,4.0
+SKU-0049,Roadster Backpack,Accessories,Roadster,449,170,29.0
+SKU-0050,Urban Edge Polo T-Shirt,Men's Topwear,Urban Edge,1949,877,27.0
+SKU-0051,Vibe Chinos,Men's Bottomwear,Vibe,2349,1127,5.0
+SKU-0052,Roadster Crop Top,Women's Topwear,Roadster,2449,1028,29.0
+SKU-0053,Classic Line Palazzo,Women's Bottomwear,Classic Line,1949,857,19.0
+SKU-0054,H&W Basics Kids Shorts,Kids Wear,H&W Basics,549,219,28.0
+SKU-0055,Urban Edge Sneakers,Footwear,Urban Edge,3699,1849,21.0
+SKU-0056,H&W Basics Belt,Accessories,H&W Basics,649,246,32.0
+SKU-0057,Roadster Formal Shirt,Men's Topwear,Roadster,1349,607,10.0
+SKU-0058,Levi's Cargo Pants,Men's Bottomwear,Levi's,2699,1295,7.0
+SKU-0059,Classic Line Printed Top,Women's Topwear,Classic Line,1949,818,124.0
+SKU-0060,H&W Basics Straight Pants,Women's Bottomwear,H&W Basics,1799,791,3.0
+SKU-0061,Trendy Co Kids T-Shirt,Kids Wear,Trendy Co,949,379,21.0
+SKU-0062,Urban Edge Slides,Footwear,Urban Edge,2149,1074,26.0
+SKU-0063,Urban Edge Backpack,Accessories,Urban Edge,1149,436,7.0
+SKU-0064,Roadster Round Neck T-Shirt,Men's Topwear,Roadster,699,314,34.0
+SKU-0065,Urban Edge Joggers,Men's Bottomwear,Urban Edge,2099,1007,12.0
+SKU-0066,Levi's Casual Shirt,Women's Topwear,Levi's,2349,986,42.0
+SKU-0067,Trendy Co Skirt,Women's Bottomwear,Trendy Co,1249,549,112.0
+SKU-0068,Trendy Co Kids Shorts,Kids Wear,Trendy Co,299,119,9.0
+SKU-0069,Vibe Sneakers,Footwear,Vibe,2349,1174,8.0
+SKU-0070,Classic Line Cap,Accessories,Classic Line,449,170,18.0
+SKU-0071,H&W Basics Polo T-Shirt,Men's Topwear,H&W Basics,1249,562,36.0
+SKU-0072,Vibe Cargo Pants,Men's Bottomwear,Vibe,2049,983,10.0
+SKU-0073,H&W Basics Crop Top,Women's Topwear,H&W Basics,1049,440,25.0
+SKU-0074,Roadster Skirt,Women's Bottomwear,Roadster,1599,703,63.0
+SKU-0075,H&W Basics Kids Hoodie,Kids Wear,H&W Basics,299,119,14.0
+SKU-0076,Classic Line Sandals,Footwear,Classic Line,3649,1824,73.0
+SKU-0077,Levi's Cap,Accessories,Levi's,1249,474,52.0
+SKU-0078,Urban Edge Polo T-Shirt,Men's Topwear,Urban Edge,1499,674,27.0
+SKU-0079,Roadster Slim Fit Jeans,Men's Bottomwear,Roadster,2249,1079,114.0
+SKU-0080,FlexFit Casual Shirt,Women's Topwear,FlexFit,2049,860,46.0
+SKU-0081,Urban Edge Palazzo,Women's Bottomwear,Urban Edge,2349,1033,83.0
+SKU-0082,Levi's Kids Hoodie,Kids Wear,Levi's,349,139,25.0
+SKU-0083,Trendy Co Sneakers,Footwear,Trendy Co,1999,999,32.0
+SKU-0084,Classic Line Wallet,Accessories,Classic Line,1649,626,8.0
+SKU-0085,Roadster Hoodie,Men's Topwear,Roadster,1949,877,88.0
+SKU-0086,Roadster Joggers,Men's Bottomwear,Roadster,1949,935,19.0
+SKU-0087,Roadster Sweatshirt,Women's Topwear,Roadster,2349,986,56.0
+SKU-0088,Levi's Skinny Jeans,Women's Bottomwear,Levi's,699,307,16.0
+SKU-0089,H&W Basics Kids Jeans,Kids Wear,H&W Basics,1299,519,84.0
+SKU-0090,Vibe Sneakers,Footwear,Vibe,3199,1599,51.0
+SKU-0091,Vibe Sunglasses,Accessories,Vibe,1799,683,6.0
+SKU-0092,Trendy Co Round Neck T-Shirt,Men's Topwear,Trendy Co,949,427,60.0
+SKU-0093,Classic Line Slim Fit Jeans,Men's Bottomwear,Classic Line,2249,1079,40.0
+SKU-0094,Roadster Crop Top,Women's Topwear,Roadster,699,293,64.0
+SKU-0095,FlexFit Straight Pants,Women's Bottomwear,FlexFit,1099,483,2.0
+SKU-0096,Vibe Kids T-Shirt,Kids Wear,Vibe,549,219,14.0
+SKU-0097,Urban Edge Sneakers,Footwear,Urban Edge,3449,1724,54.0
+SKU-0098,Levi's Sunglasses,Accessories,Levi's,599,227,12.0
+SKU-0099,Trendy Co Polo T-Shirt,Men's Topwear,Trendy Co,1799,809,21.0
+SKU-0100,Levi's Slim Fit Jeans,Men's Bottomwear,Levi's,1499,719,18.0
+SKU-0101,Classic Line Sweatshirt,Women's Topwear,Classic Line,2449,1028,53.0
+SKU-0102,Trendy Co Leggings,Women's Bottomwear,Trendy Co,849,373,9.0
+SKU-0103,Urban Edge Kids Hoodie,Kids Wear,Urban Edge,549,219,6.0
+SKU-0104,Levi's Sandals,Footwear,Levi's,2949,1474,32.0
+SKU-0105,Urban Edge Sunglasses,Accessories,Urban Edge,1149,436,122.0
+SKU-0106,FlexFit Hoodie,Men's Topwear,FlexFit,1349,607,27.0
+SKU-0107,Levi's Cargo Pants,Men's Bottomwear,Levi's,2549,1223,9.0
+SKU-0108,FlexFit Printed Top,Women's Topwear,FlexFit,1999,839,46.0
+SKU-0109,Levi's Skirt,Women's Bottomwear,Levi's,849,373,22.0
+SKU-0110,Vibe Kids Dress,Kids Wear,Vibe,699,279,23.0
+SKU-0111,Roadster Running Shoes,Footwear,Roadster,2349,1174,67.0
+SKU-0112,FlexFit Cap,Accessories,FlexFit,1899,721,8.0
+SKU-0113,Roadster Casual Shirt,Men's Topwear,Roadster,1899,854,23.0
+SKU-0114,Urban Edge Cargo Pants,Men's Bottomwear,Urban Edge,1999,959,38.0
+SKU-0115,FlexFit Printed Top,Women's Topwear,FlexFit,699,293,5.0
+SKU-0116,Levi's Straight Pants,Women's Bottomwear,Levi's,1399,615,49.0
+SKU-0117,Vibe Kids T-Shirt,Kids Wear,Vibe,899,359,42.0
+SKU-0118,Vibe Sneakers,Footwear,Vibe,3349,1674,61.0
+SKU-0119,H&W Basics Cap,Accessories,H&W Basics,1649,626,5.0
+SKU-0120,Urban Edge Hoodie,Men's Topwear,Urban Edge,649,292,72.0
